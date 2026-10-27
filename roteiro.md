@@ -26,7 +26,7 @@ A Corrida Espacial foi uma competição tecnológica e política do século XX e
 Estamos decolando , no foguete **saturno 5**, no **Centro Espacial Kennedy**, eu sou **Neil Armstrong**, e estou com Buzz Aldrin , e Michael Collins, rumo ao espaço. Em breve deveremos pousar na lua."
 
 > astroEUA2 : "20 de julho de 1969,\
-o módulo lunar: **Água**, pousou na superfície lunar, nós estamos prestes a descer. Eu sou **Buzz Aldrin**, e estou no módulo com **Neil Armstrong**, prestes a pousar no mar da tranquilidade."
+o módulo lunar: **Água**, pousou na superfície lunar, nós dois estamos prestes a descer. Eu sou **Buzz Aldrin**, e estou no módulo com **Neil Armstrong**, prestes a pousar no mar da tranquilidade."
 
 _(videos do pouso, música interestelar.)_
 
